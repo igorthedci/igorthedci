@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/igorthedci/igorthedci/blob/main/20180812_191752_HDR_cr_400.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/igorthedci/igorthedci/blob/main/20180812_191752_HDR_cr_400.jpg" align="center" style="width: 33%" />
 </div>  
   
 
