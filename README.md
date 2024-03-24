@@ -6,23 +6,20 @@
 ### <div align="center">I'm Igor Yankovsky, QA Engineer with 10+ years experience </div>  
   
 
-- 🔭 I’m currently working on gathering my learning repositories on one place  
+- I’m currently working on gathering my learning repositories on one place  
   
 
-- 🌱 I’m currently learning the markdown language  
+- I’m currently learning the markdown language  
 
 
-- ⚡ Fun fact: Board games are a learning and training tool  
+- Fun fact: Board games are a learning and training tool  
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Languages and tools
-<div align="center">  
+## Skills and Tools
+<div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
