@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <img src="https://igorthedci.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
