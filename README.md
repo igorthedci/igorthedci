@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Igor Yankovsky, QA Engineer with 10+ years experience </div>  
+### <div align="left">I'm Igor Yankovsky, QA Engineer with 10+ years experience </div>  
   
 
 - I’m currently working on gathering my learning repositories on one place  
