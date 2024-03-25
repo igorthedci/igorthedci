@@ -1,12 +1,9 @@
-<div align="left">
-<img src="https://github.com/igorthedci/igorthedci/blob/main/cr_400.jpg" align="center" style="width: 33%" />
-</div>  
+
+### <div align="left">Welcome!</div>  
+I'm Igor Yankovsky, QA Engineer with 10+ years of experience.
   
 
-### <div align="left">I'm Igor Yankovsky, QA Engineer with 10+ years experience </div>  
-  
-
-- I’m currently working on gathering my learning repositories on one place  
+- I’m currently working on gathering my learning repositories in one place  
   
 
 - I’m currently learning the markdown language  
